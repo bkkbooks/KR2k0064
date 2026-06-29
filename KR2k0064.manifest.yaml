@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR2k0064/v1
+canonical_location: https://kanripo.org/bkk/KR2k0064/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 治河圖略
+  date: '2015-08-24 22:43:42.685395'
+  source:
+    repository: kanripo
+    path: KR2k0064
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0064_000.yaml, hash: 'sha256:da77c664109ca953ab5aeadcdd79af3a9b805fd67511436f062d6f2fab9f4163'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0064_000.markers.yaml, hash: 'sha256:0754dbe05df4eac027508e7f5738637bbc8a70b668f9cc7c5afde067ba19d47d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0064_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 350
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0064_WYG_000-3a
+    span:
+    - body
+    - 350
+    - 4096
+  label: 治河圖畧
+  type: section
+  level: 1
+hash: sha256:836418964efed5140e420d67c06ef3b46361e9d0597ef8c04756168fea1c286b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
