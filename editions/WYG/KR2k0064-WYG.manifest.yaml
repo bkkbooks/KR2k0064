@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2k0064_000-WYG.yaml, hash: 'sha256:7e1fb7d9657cf9196979339a873c635c4a005674f3f2f83699596958209d4d6a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0064_000-WYG.markers.yaml, hash: 'sha256:4d58673860f433f42f1af70b51ce31692a7c90390fa7e1003a1e51b09c08db40'}
+  - {seq: 0, role: markers, filename: assets/KR2k0064_000-WYG.markers.yaml, hash: 'sha256:0da8365774be087adbf8a24c28882915d1cdab411c92bbe9d49d7743e9a5f55f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 治河圖畧
   type: section
   level: 1
-hash: sha256:89ccc5dbfa536752c79ca9697d6e5f9b96da251816a7179b0f19ed4ae36903ff
+hash: sha256:a54186f98f6874b3554b6a4ea2b014584360825203e326af350b14d1593dcd19
